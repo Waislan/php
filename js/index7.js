@@ -1,0 +1,1 @@
+$('input[name="inputValorHora"]').mask('00.00', { reverse: true});

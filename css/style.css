@@ -1,0 +1,15 @@
+button {
+    margin-bottom: 15px;
+}
+
+.content {
+    margin-top: 15px;
+}
+
+input {
+    margin: 3px;
+}
+
+button a {
+    color: white;
+}

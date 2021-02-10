@@ -1,0 +1,1 @@
+$('input[name="inputPreco"]').mask('#0000.00', { reverse: true});

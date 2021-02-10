@@ -1,0 +1,1 @@
+$('input[name="inputQuantidadeCombustivel"]').mask('#000.00', { reverse: true});
